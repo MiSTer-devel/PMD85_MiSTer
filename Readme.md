@@ -1,5 +1,5 @@
 # PMD85 v2
-![PMD image](/pictures/PMD_th.jpg)
+![PMD image](/pictures/PMD_th.jpg)  
 Computer [PMD 85](https://en.wikipedia.org/wiki/PMD_85) is [Czechoslovakian](https://en.wikipedia.org/wiki/Czechoslovakia) 8-bit computer produced by [Tesla](https://en.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) Piešťany and Tesla Bratislava. First version was designed by Roman Kišš.
 And this is its implementation in Verilog for [MISTEer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) FPGA.
 
@@ -14,7 +14,7 @@ https://youtu.be/VVukIzzWiKY
 * 4 kB ROM + up to 32 kB in detachable/changeable ROM pack used for example for Basic but also might be used other devices like emulator of 8048 uProcessor
 * TV output or RGB video
 * 288x256 pixels - 2 bits "color" attributes per 6 pixels (grayscale or blink or RGB)
-* 2x8-bit parallel buss connectors
+* 2x8-bit parallel bus connectors
 * application connector directly connected to IO system bus
 * IMS-2 connector
 * current loop RS232 connector
